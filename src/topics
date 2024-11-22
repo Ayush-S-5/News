@@ -1,0 +1,8 @@
+<Route path="/Home"><News country="in" category="Home"/></Route>
+<Route path="/Business"><News country="in" category="Business"/></Route>
+<Route path="/Entertainment"><News country="in" category="Entertainment"/></Route>
+<Route path="/Health"><News country="in" category="Health"/></Route>
+<Route path="/Science"><News country="in" category="Science"/></Route>
+<Route path="/Sports"><News country="in" category="Sports"/></Route>
+
+        
